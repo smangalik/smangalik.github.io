@@ -207,9 +207,10 @@ ul#nav li.current a { color: #4CB07E; } /** TODO pick a nice color */
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 200px;
+   height: 200px;
    border-radius: 100%;
+   overflow: hidden;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -294,7 +295,7 @@ ul#nav li.current a { color: #4CB07E; } /** TODO pick a nice color */
 }
 
 #skills h1 {
-   color: #FFF; 
+   color: #FFF;
 }
 
 #skills h3 {
@@ -539,4 +540,3 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #7F1D34; } /** TODO pick a nice color */
-
