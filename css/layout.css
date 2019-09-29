@@ -207,8 +207,8 @@ ul#nav li.current a { color: #4CB07E; } /** TODO pick a nice color */
 }
 #about .profile-pic {
    position: relative;
-   width: 200px;
-   height: 200px;
+   width: 225px;
+   height: 225px;
    border-radius: 100%;
    overflow: hidden;
 }
